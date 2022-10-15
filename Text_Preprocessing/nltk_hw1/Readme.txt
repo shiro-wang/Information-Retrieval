@@ -1,0 +1,2 @@
+因為spellcheck處理時間過長，加上考慮到只能處理英文資料集，因此使用tsv檔內的Definitely English欄位，篩選掉非英文tweet
+而關於lemmatization與stemming之間，選擇stemming去做處理，兩者程式碼都有在裡面
